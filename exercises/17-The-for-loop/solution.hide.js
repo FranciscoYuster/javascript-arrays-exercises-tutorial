@@ -8,4 +8,4 @@ for (let i of myArray) {
 
 let avg = totalSum / myArray.length
 
-console.log(avg)
+console.log(total)
